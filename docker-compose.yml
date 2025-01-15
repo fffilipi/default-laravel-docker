@@ -52,7 +52,7 @@ services:
     networks:
       - laravel
     ports:
-      - "5175:5175"
+      - "5176:5176"
     command: ["npm", "run", "dev"]
 
 volumes:
