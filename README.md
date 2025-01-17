@@ -13,7 +13,7 @@ git clone git@github.com:fffilipi/default-laravel-docker.git
 ### **2. Acesse a pasta do projeto**
 
 ```
-cd project-laravel
+cd default-laravel-docker
 ```
 
 ### **3. Suba os containers Docker**
